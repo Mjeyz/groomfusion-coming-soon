@@ -1,7 +1,7 @@
 /*! ------------------------------------------------
- * Project Name: Marvio - Coming Soon & Portfolio Template
- * Project Description: Marvio - awesome coming soon and portfolio template to kick-start your project
- * Tags: mix_design, coming soon, under construction, template, landing page, portfolio, one page, responsive, html5, css3, creative, clean, agency, personal page
+ * Project Name: Groom Fusion - Next Level
+ * Project Description: Groom Fusion - Next Level
+ * Latest beauty products, cosmetics, beauty, makup
  * Version: 1.0.0
  * Build Date: May 2022
  * Last Update: May 2022
@@ -43,23 +43,23 @@
 /* Template Backgrounds Start */
 /* ------------------------------------------------*/
 .media-image-1 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-1.jpg");
 }
 
 .media-image-2 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-2.jpg");
 }
 
 .slide-image-1 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-1.jpg");
 }
 
 .slide-image-2 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-2.jpg");
 }
 
 .slide-image-3 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-3.jpg");
 }
 
 .project-main-image-1 {
@@ -3685,7 +3685,7 @@ form .inputs-description {
   }
 }
 
-.marvio-pagination {
+.GroomFusion-pagination {
   font: normal 400 1.4rem/1.6 "Poppins", sans-serif;
   color: #ffffff;
   width: auto;
@@ -3696,23 +3696,23 @@ form .inputs-description {
   right: calc(10% + 3.6rem);
 }
 @media only screen and (min-width: 768px) {
-  .marvio-pagination {
+  .GroomFusion-pagination {
     bottom: 12.4rem;
   }
 }
 @media only screen and (min-width: 1200px) {
-  .marvio-pagination {
+  .GroomFusion-pagination {
     right: 11.6rem;
   }
 }
 @media only screen and (min-width: 1400px) {
-  .marvio-pagination {
+  .GroomFusion-pagination {
     bottom: 13.4rem;
     right: 13.6rem;
   }
 }
 
-.marvio-navigation {
+.GroomFusion-navigation {
   color: #ffffff;
   position: absolute;
   top: auto;
@@ -3723,46 +3723,46 @@ form .inputs-description {
   width: 4rem;
   height: 4rem;
 }
-.marvio-navigation::after {
+.GroomFusion-navigation::after {
   display: none;
 }
 @media only screen and (min-width: 768px) {
-  .marvio-navigation {
+  .GroomFusion-navigation {
     bottom: 11.6rem;
   }
 }
 @media only screen and (min-width: 1400px) {
-  .marvio-navigation {
+  .GroomFusion-navigation {
     bottom: 12.6rem;
   }
 }
 
-.marvio-next {
+.GroomFusion-next {
   right: -moz-calc(10% - 1.4rem);
   right: calc(10% - 1.4rem);
 }
 @media only screen and (min-width: 1200px) {
-  .marvio-next {
+  .GroomFusion-next {
     right: 6.6rem;
   }
 }
 @media only screen and (min-width: 1400px) {
-  .marvio-next {
+  .GroomFusion-next {
     right: 8.6rem;
   }
 }
 
-.marvio-prev {
+.GroomFusion-prev {
   right: -moz-calc(10% + 7.8rem);
   right: calc(10% + 7.8rem);
 }
 @media only screen and (min-width: 1200px) {
-  .marvio-prev {
+  .GroomFusion-prev {
     right: 15.8rem;
   }
 }
 @media only screen and (min-width: 1400px) {
-  .marvio-prev {
+  .GroomFusion-prev {
     right: 17.8rem;
   }
 }

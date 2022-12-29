@@ -2,7 +2,7 @@
   "_args": [
     [
       "es5-shim@4.6.5",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/es5-shim/-/es5-shim-4.6.5.tgz",
   "_spec": "4.6.5",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "bugs": {
     "url": "https://github.com/es-shims/es5-shim/issues"
   },

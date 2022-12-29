@@ -2,7 +2,7 @@
   "_args": [
     [
       "typed.js@2.0.12",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/typed.js/-/typed.js-2.0.12.tgz",
   "_spec": "2.0.12",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "author": {
     "name": "Matt Boldt",
     "email": "me@mattboldt.com"

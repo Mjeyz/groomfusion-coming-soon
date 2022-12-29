@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@6.1.0",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -28,7 +28,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-6.1.0.tgz",
   "_spec": "6.1.0",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "author": {
     "name": "The Font Awesome Team",
     "url": "https://github.com/orgs/FortAwesome/people"

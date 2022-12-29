@@ -2,7 +2,7 @@
   "_args": [
     [
       "html5shiv@3.7.3",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/html5shiv/-/html5shiv-3.7.3.tgz",
   "_spec": "3.7.3",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "bugs": {
     "url": "https://github.com/aFarkas/html5shiv/issues"
   },

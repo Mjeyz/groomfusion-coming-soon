@@ -2,7 +2,7 @@
   "_args": [
     [
       "animejs@3.2.1",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/animejs/-/animejs-3.2.1.tgz",
   "_spec": "3.2.1",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "author": {
     "name": "Julian Garnier",
     "email": "hello@julian.gr"

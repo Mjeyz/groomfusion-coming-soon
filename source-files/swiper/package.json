@@ -2,7 +2,7 @@
   "_args": [
     [
       "swiper@8.0.7",
-      "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2"
+      "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/swiper/-/swiper-8.0.7.tgz",
   "_spec": "8.0.7",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-marvio\\frontendSale2",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-GroomFusion\\frontendSale2",
   "author": {
     "name": "Vladimir Kharlampidi"
   },
