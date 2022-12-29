@@ -63,31 +63,31 @@
 }
 
 .project-main-image-1 {
-  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-1.jpg");
 }
 
 .project-main-image-2 {
-  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-2.jpg");
 }
 
 .project-main-image-3 {
-  background-image: url("https://dummyimage.com/1200x600/424242/636363");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-3.jpg");
 }
 
 .menu-image-1 {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-1.jpg");
 }
 
 .media-image-about {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-3.jpg");
 }
 
 .media-image-portfolio {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-1.jpg");
 }
 
 .media-image-contact {
-  background-image: url("https://dummyimage.com/960x1440/636363/ffffff");
+  background-image: url("./../img/backgrounds/960x1440-bg-kenburns-2.jpg");
 }
 
 .showreel-image-1 {

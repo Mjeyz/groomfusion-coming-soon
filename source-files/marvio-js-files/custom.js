@@ -170,9 +170,9 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" },
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" },
-        { src: "https://dummyimage.com/960x1440/636363/ffffff" }
+        { src: "./../img/backgrounds/960x1440-bg-kenburns-1.jpg" },
+        { src: "./../img/backgrounds/960x1440-bg-kenburns-2.jpg" },
+        { src: "./../img/backgrounds/960x1440-bg-kenburns-3.jpg" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
